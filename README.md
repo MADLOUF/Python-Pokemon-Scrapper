@@ -15,7 +15,7 @@ Python Pokemon Scrapper is a Python project designed to scrape and collect data 
 ## Usage
 
 1. Install Python and required dependencies.
-2. Upload your Discord Bot Token
+2. Update your Discord Bot Token
 3. Run the main script:  
    ```bash
    python script.py
